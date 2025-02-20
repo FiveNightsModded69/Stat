@@ -12338,9 +12338,9 @@
         ]
     },
             "Freddy Toilet": {
-        "Type": "Mythic",
+        "Type": "Single",
         "Image": "rbxassetid://125068275009248",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 2,
