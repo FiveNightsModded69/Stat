@@ -12133,12 +12133,12 @@
         ]
     },
     "Pixel OMC": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 150000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "hitboxOffset": {
             "X": 0,
@@ -12148,27 +12148,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                 "Range": 40,
+                "Damage": 15000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                 "Range": 45,
+                "Damage": 20000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 50,
+                "Damage": 30000,
+                "Cooldown": 0.1
             }
         ]
     },
