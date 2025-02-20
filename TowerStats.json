@@ -12294,6 +12294,166 @@
             }
         ]
     },
+    "Gigachad Freddy Toilet": {
+        "Type": "Farm",
+        "Image": "rbxassetid://72169861428697",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 250
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 500
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 750
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Farm": 1000
+            }
+        ]
+    },
+            "Freddy Toilet": {
+        "Type": "Mythic",
+        "Image": "rbxassetid://125068275009248",
+        "Rarity": "Secret",
+        "PlacePrice": 1250,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 18,
+                "Damage": 750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 925,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 12000,
+                "Range": 26,
+                "Damage": 1100,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Upgraded Freddy Toilet": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73608069620801",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 18,
+                "Damage": 7500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 9250,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 12000,
+                "Range": 26,
+                "Damage": 11000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+          "Boss Freddy Toilet": {
+        "Type": "AOE",
+        "Image": "rbxassetid://90047422064384",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 12500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 18,
+                "Damage": 15000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 20000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 12000,
+                "Range": 26,
+                "Damage": 12500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
