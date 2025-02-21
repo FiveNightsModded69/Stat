@@ -12454,7 +12454,7 @@
         ]
     },
           "Daddy Long Legs": {
-        "Type": "AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://90047422064384",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
