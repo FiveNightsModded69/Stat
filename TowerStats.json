@@ -12453,9 +12453,87 @@
             }
         ]
     },
+         "Pianodino": {
+        "Type": "AOE",
+        "Image": "rbxassetid://78080266051995",
+        "Rarity": "Secret",
+        "PlacePrice": 2250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4250,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 1250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 7500,
+                "Range": 32,
+                "Damage": 2500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+      "Yarnaby": {
+        "Type": "Slow + Aoe",
+        "Image": "rbxassetid://78080266051995",
+        "Rarity": "Secret",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 75000,
+                "Range": 25,
+                "Damage": 7500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 100000,
+                "Range": 30,
+                "Damage": 12500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 120000,
+                "Range": 32,
+                "Damage": 25000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
           "Daddy Long Legs": {
         "Type": "Splash",
-        "Image": "rbxassetid://90047422064384",
+        "Image": "rbxassetid://78080266051995",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Offset": 0,
