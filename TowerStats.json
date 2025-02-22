@@ -6,7 +6,7 @@
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
-        "hitboxOffset": { 
+        "hitboxOffset": {  
             "X": 0, 
             "Y": 0,
             "Z": 0
