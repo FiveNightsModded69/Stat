@@ -12455,7 +12455,7 @@
     },
         "Doey The Doughman": {
         "Type": "Pierce + Slow",
-        "Image": "rbxassetid://78080266051995",
+        "Image": "rbxassetid://81919190537209",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
@@ -12494,7 +12494,7 @@
     },
        "Kissy Missy": {
         "Type": "Splash",
-        "Image": "rbxassetid://78080266051995",
+        "Image": "rbxassetid://133247218693069",
         "Rarity": "Mythic",
         "PlacePrice": 500,
         "Offset": 0,
@@ -12533,7 +12533,7 @@
     },
          "Pianodino": {
         "Type": "AOE",
-        "Image": "rbxassetid://78080266051995",
+        "Image": "rbxassetid://101873441421476",
         "Rarity": "Secret",
         "PlacePrice": 2250,
         "Offset": 0,
