@@ -12453,6 +12453,123 @@
             }
         ]
     },
+        "Doey The Doughman": {
+        "Type": "Pierce + Slow",
+        "Image": "rbxassetid://78080266051995",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4250,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 1250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 32,
+                "Damage": 2500,
+                "Cooldown": 1
+            }
+        ]
+    },
+       "Kissy Missy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://78080266051995",
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4250,
+                "Range": 25,
+                "Damage": 350,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 450,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 7500,
+                "Range": 32,
+                "Damage": 550,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+      "Huggy Wuggy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://78080266051995",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4250,
+                "Range": 25,
+                "Damage": 350,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 450,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 7500,
+                "Range": 32,
+                "Damage": 550,
+                "Cooldown": 0.25
+            }
+        ]
+    },
          "Pianodino": {
         "Type": "AOE",
         "Image": "rbxassetid://78080266051995",
@@ -12494,7 +12611,7 @@
     },
       "DogDay": {
         "Type": "Slow + Aoe",
-        "Image": "rbxassetid://78080266051995",
+        "Image": "rbxassetid://100390705739730",
         "Rarity": "Secret",
         "PlacePrice": 50000,
         "Offset": 0,
