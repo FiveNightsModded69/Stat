@@ -12078,11 +12078,11 @@
     },
         "Demon Old Man Consequences": {
         "Type": "Death Trapper + Aoe",
-        "Image": "rbxassetid://91251907054257",
+        "Image": "rbxassetid://93541245421486",
         "Rarity": "Apex",
         "PlacePrice": 11111,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
