@@ -12076,6 +12076,45 @@
             }
         ]
     },
+        "Demon Old Man Consequences": {
+        "Type": "Death Trapper + Aoe",
+        "Image": "rbxassetid://91251907054257",
+        "Rarity": "Apex",
+        "PlacePrice": 11111,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 33,
+                "Damage": 3333,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22222,
+                "Range": 35,
+                "Damage": 4444,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 33333,
+                "Range": 40,
+                "Damage": 5555,
+                 "Cooldown": 0.1
+            },
+            {
+                "Price": 44444,
+                "Range": 44,
+                "Damage": 6666,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "The Mimic": {
         "Type": "Slash",
         "Image": "rbxassetid://108843809969916",
