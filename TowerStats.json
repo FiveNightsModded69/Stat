@@ -12534,7 +12534,7 @@
          "Pianodino": {
         "Type": "AOE",
         "Image": "rbxassetid://101873441421476",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 2250,
         "Offset": 0,
         "Max": 3,
@@ -12573,7 +12573,7 @@
       "DogDay": {
         "Type": "Slow + Aoe",
         "Image": "rbxassetid://100390705739730",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
