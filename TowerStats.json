@@ -77,6 +77,279 @@
             }
         ]
     },
+     "Smooth Criminal Bonnie": {
+        "Type": "Aoe + Slow",
+        "Image": "rbxassetid://139100335916071",
+        "Rarity": "Mafia",
+        "PlacePrice": 75000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 35000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 77500,
+                "Range": 35,
+                "Damage": 42000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 78000,
+                "Range": 37,
+                "Damage": 47000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 80000,
+                "Range": 42,
+                "Damage": 55550,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+      "Boss Fazbear Mafia": {
+        "Type": "Splash + Aoe + Slow",
+        "Image": "rbxassetid://122151065335924",
+        "Rarity": "Mafia",
+        "PlacePrice": 7500,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12500,
+                "Range": 25,
+                "Damage": 4200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 18500,
+                "Range": 27,
+                "Damage": 4700,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 32500,
+                "Range": 30,
+                "Damage": 5555,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+      "Mafia Golden Freddy": {
+        "Type": "Burst + Aoe",
+        "Image": "rbxassetid://81608172078116",
+        "Rarity": "Mafia",
+        "PlacePrice": 3500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4500,
+                "Range": 27,
+                "Damage": 2225,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5555,
+                "Range": 30,
+                "Damage": 3425,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 7500,
+                "Range": 32,
+                "Damage": 5555,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+      "Mafia Toy Freddy": {
+        "Type": "Burst + Aoe",
+        "Image": "rbxassetid://138872887006495",
+        "Rarity": "Mafia",
+        "PlacePrice": 2000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2222,
+                "Range": 17,
+                "Damage": 1250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 1700,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 3000,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Redbear": {
+        "Type": "???",
+        "Image": "rbxassetid://102546045993642",
+        "Rarity": "Forgotten",
+        "PlacePrice": 150000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 750,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 300000,
+                "Range": 15,
+                "Damage": 1250,
+                 "Cooldown": 0.01
+            },
+            {
+               "Price": 600000,
+                "Range": 17,
+                "Damage": 1700,
+                 "Cooldown": 0.01
+            },
+            {
+                "Price": 1200000,
+                "Range": 18,
+                "Damage": 2500,
+                 "Cooldown": 0.01
+            }
+        ]
+    },
+         "Blighted Endo Old Man Consequences": {
+        "Type": "Aughh",
+        "Image": "rbxassetid://139682965881399",
+        "Rarity": "Forgotten",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 750,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 17,
+                "Damage": 1250,
+                 "Cooldown": 0.1
+            },
+            {
+               "Price": 60000,
+                "Range": 19,
+                "Damage": 1700,
+                 "Cooldown": 0.1
+            },
+            {
+                "Price": 120000,
+                "Range": 20,
+                "Damage": 2500,
+                 "Cooldown": 0.1
+            }
+        ]
+    }, 
+          "ReddyTD_onYT": {
+        "Type": "Fat duck",
+        "Image": "rbxassetid://74041625859435",
+        "Rarity": "Forgotten",
+        "PlacePrice": 150,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 1750,
+                "Cooldown": 3
+            },
+            {
+                "Price": 333,
+                "Range": 15,
+                "Damage": 2300,
+                 "Cooldown": 3
+            },
+            {
+               "Price": 444,
+                "Range": 17,
+                "Damage": 2500,
+                 "Cooldown": 2
+            },
+            {
+                "Price": 555,
+                "Range": 18,
+                "Damage": 3275,
+                 "Cooldown": 1.5
+            }
+        ]
+    }, 
       "Cute Toy Freddy": {
         "Type": "Party Favors",
         "Image": "rbxassetid://128965180948188",
@@ -10116,6 +10389,56 @@
             }
         ]
     },
+
+    "Old Barney Consequences": {
+        "Type": "AOE Slow + Passive",
+        "Image": "rbxassetid://79117927971218",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage equal to 50x this units damage in poison. All enemies in range are slowed by 50%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 22222,
+                "Range": 27,
+                "Damage": 1700,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 33333,
+                "Range": 30,
+                "Damage": 1900,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 2250,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            }
+        ]
+    },
+    
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
