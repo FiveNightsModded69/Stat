@@ -77,6 +77,45 @@
             }
         ]
     },
+       "Bemmyblox": {
+        "Type": "Aoe + Earthquakes",
+        "Image": "rbxassetid://106964820008905",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 2500000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 3500000,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 3500,
+                "Range": 23,
+                "Damage": 3500000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 5750,
+                "Range": 25,
+                 "Damage": 3500000,
+                "Cooldown": 1.7
+            }
+        ]
+    },
      "Smooth Criminal Bonnie": {
         "Type": "Aoe + Slow",
         "Image": "rbxassetid://139100335916071",
