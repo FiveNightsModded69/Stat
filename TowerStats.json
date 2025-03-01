@@ -350,6 +350,45 @@
             }
         ]
     }, 
+         "Titan Cameraman": {
+        "Type": "Single",
+        "Image": "rbxassetid://131052469511399",
+        "Rarity": "Forgotten",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1500,
+                "Range": 30,
+                "Damage": 1200,
+                 "Cooldown": 0.2
+            },
+            {
+               "Price": 3000,
+                "Range": 35,
+                "Damage": 1500,
+                 "Cooldown": 0.15
+            },
+            {
+                "Price": 4250,
+                "Range": 40,
+                "Damage": 3275,
+                 "Cooldown": 0.1
+            }
+        ]
+    }, 
      "ReddyTD": {
         "Type": "Fat duck",
         "Image": "rbxassetid://74041625859435",
