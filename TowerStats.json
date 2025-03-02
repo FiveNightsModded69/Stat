@@ -13246,7 +13246,7 @@
         ]
     },
         "Easter Bonnie": {
-        "Type": "Aoe",
+        "Type": "Pierce",
         "Image": "rbxassetid://71277651255356",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -13281,6 +13281,45 @@
                 "Range": 27,
                  "Damage": 6250,
                 "Cooldown": 1.4
+            }
+        ]
+    },
+      "System Error Toy Bonnie": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://104295741102933",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+              "Damage": 12000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                 "Damage": 14500,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 22500,
+                "Range": 27,
+                "Damage": 14500,
+                "Cooldown": 0.7
             }
         ]
     },
