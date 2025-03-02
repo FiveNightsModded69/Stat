@@ -13323,6 +13323,49 @@
             }
         ]
     },
+      "Shamrock Freddy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://112678188217547",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 2,
+                "Farm": 5000
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Farm": 5500
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 3,
+                "Farm": 6750
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 4250,
+                "Cooldown": 3,
+                "Farm": 7000
+            }
+        ]
+    },
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
