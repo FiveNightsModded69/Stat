@@ -13206,6 +13206,45 @@
             }
         ]
     },
+             "Chocolate Bonnie": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://78235126651531",
+        "Rarity": "Mythic",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 23,
+                "Damage": 4250,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5700,
+                "Range": 25,
+                "Damage": 4250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 6500,
+                "Range": 27,
+                "Damage": 4750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
