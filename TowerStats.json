@@ -12695,6 +12695,242 @@
             }
         ]
     },
+        "Highscore Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130231709530326",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 2500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 2250,
+                "Range": 25,
+                "Damage": 3750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+          "Chocolate Bonnie": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://78235126651531",
+        "Rarity": "Mythic",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 23,
+                "Damage": 4250,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5700,
+                "Range": 25,
+                "Damage": 4250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 6500,
+                "Range": 27,
+                "Damage": 4750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+          "Easter Bonnie": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://71277651255356",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 5250,
+                "Range": 23,
+                 "Damage": 5750,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 5700,
+                "Range": 25,
+                 "Damage": 6000,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 6500,
+                "Range": 27,
+                 "Damage": 6250,
+                "Cooldown": 1.4
+            }
+        ]
+    },
+             "System Error Toy Bonnie": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://104295741102933",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+              "Damage": 12000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                 "Damage": 14500,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 22500,
+                "Range": 27,
+                "Damage": 14500,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+       "Shamrock Freddy": {
+        "Type": "Farm + Aoe",
+        "Image": "rbxassetid://112678188217547",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 2,
+                "Farm": 5000
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Farm": 5500
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 3,
+                "Farm": 6750
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 4250,
+                "Cooldown": 3,
+                "Farm": 7000
+            }
+        ]
+    },
+         "Vr Toy Freddy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://120782152286969",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 37500,
+                "Range": 25,
+               "Damage": 7500,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 42500,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 0.3,
+            },
+            {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 0.2,
+            }
+        ]
+    },
     "Nightmare Bot": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
