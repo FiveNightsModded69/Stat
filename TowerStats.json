@@ -13324,7 +13324,7 @@
         ]
     },
       "Shamrock Freddy": {
-        "Type": "Aoe",
+        "Type": "Aoe + Farm",
         "Image": "rbxassetid://112678188217547",
         "Rarity": "Nightmare",
         "PlacePrice": 7500,
@@ -13363,6 +13363,45 @@
                 "Damage": 4250,
                 "Cooldown": 3,
                 "Farm": 7000
+            }
+        ]
+    },
+      "Vr Toy Freddy": {
+        "Type": "Farm",
+        "Image": "rbxassetid://120782152286969",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 37500,
+                "Range": 25,
+               "Damage": 7500,
+                "Cooldown": 0.2,
+            },
+            {
+                "Price": 42500,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 0.3,
+            },
+            {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 0.2,
             }
         ]
     },
