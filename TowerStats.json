@@ -13167,6 +13167,45 @@
             }
         ]
     },
+              "Highscore Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130231709530326",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 2500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 2250,
+                "Range": 25,
+                "Damage": 3750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
