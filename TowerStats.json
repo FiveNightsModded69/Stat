@@ -13773,9 +13773,9 @@
     },
         "Orville Elephant": {
         "Type": "Pierce",
-        "Image": "rbxassetid://120386866285195",
-        "Rarity": "Apex",
-        "PlacePrice": 3000,
+        "Image": "rbxassetid://123353071113951",
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -13786,27 +13786,146 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 25,
+                "Damage": 2750,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 3000,
                 "Range": 27,
-                "Damage": 12500,
-                "Cooldown": 1.2
+                "Damage": 3000,
+                "Cooldown": 2.5
             },
             {
-                "Price": 35000,
+                "Price": 4250,
+                "Range": 29,
+                "Damage": 4250,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5550,
                 "Range": 30,
-                "Damage": 15000,
-                "Cooldown": 1.1
+                "Damage": 5525,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+      "Happy Frog": {
+        "Type": "Damage Booster",
+        "Image": "rbxassetid://101505583229334",
+        "Rarity": "Secret",
+        "PlacePrice": 2375,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.37
             },
             {
-                "Price": 40000,
-                "Range": 32,
-                "Damage": 20000,
-                "Cooldown": 1
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.40
             },
             {
-                "Price": 45000,
-                "Range": 35,
-                "Damage": 24000,
-                "Cooldown": 1
+                "Price": 2750,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.45
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.69
+            }
+        ]
+    },
+      "Neddbear": {
+        "Type": "Single",
+        "Image": "rbxassetid://94347046140424",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 17500,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 21500,
+                "Range": 20,
+                "Damage": 14000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 17000,
+                "Cooldown": 1.7
+            }
+        ]
+    },
+       "El Chip": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://94347046140424",
+        "Rarity": "Apex",
+        "PlacePrice": 24000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 24500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 27000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 30000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 33500,
+                "Cooldown": 2
             }
         ]
     },
