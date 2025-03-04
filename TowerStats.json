@@ -38,6 +38,250 @@
             }
         ]
     },
+      "Nedd Bear": {
+        "Type": "Single",
+        "Image": "rbxassetid://105500005438279",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 12000,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 3.6
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 14500,
+                "Cooldown": 3.3
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 17000,
+                "Cooldown": 2.9
+            }
+        ]
+    },
+    "El Chip": {
+        "Type": "Splash + Stun",
+        "Image": "rbxassetid://135626506638641",
+        "Rarity": "Apex",
+        "PlacePrice": 24600,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 16789,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 18760,
+                "Cooldown": 2.3,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 21090,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 23000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Pig Patch": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73422639144645",
+        "Rarity": "Rare",
+        "PlacePrice": 800,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1458,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 2455,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 3467,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 5643,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Mr. Hippo": {
+        "Type": "AOE",
+        "Image": "rbxassetid://76212751297097",
+        "Rarity": "Epic",
+        "PlacePrice": 3477,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 140,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 6500,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14500,
+                "Range": 13,
+                "Damage": 400,
+                "Cooldown": 0.08
+            },
+            {
+                "Price": 15500,
+                "Range": 14,
+                "Damage": 665,
+                "Cooldown": 0.08
+            }
+        ]
+    },
+    "Orville": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://124807881640550",
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3740,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 14000,
+                "Range": 23,
+                "Damage": 4660,
+                "Cooldown": 2
+            },
+            {
+                "Price": 16000,
+                "Range": 27,
+                "Damage": 5780,
+                "Cooldown": 1.8
+            },          
+             {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 6900,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Happy Frog": {
+        "Type": "Damage Boost",
+        "Image": "rbxassetid://108466147786813",
+        "Rarity": "Secret",
+        "PlacePrice": 2350,
+        "NoEnemyAttack": true,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.16
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.25
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.35
+            },
+            {
+                "Price": 1400,
+                "Range": 28,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.46
+            }
+        ]
+    },
      "Washington Freddy": {
         "Type": "Burst",
         "Image": "rbxassetid://127550767901264",
