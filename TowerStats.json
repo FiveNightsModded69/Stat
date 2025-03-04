@@ -13692,6 +13692,124 @@
             }
         ]
     },
+        "Mr.Hippo": {
+        "Type": "AOE",
+        "Image": "rbxassetid://80357812525702",
+        "Rarity": "Epic",
+        "PlacePrice": 3000,
+        "Offset": -1,
+        "Max": 2,
+        "Passive": {"Name": "Fan", "Description": "Attacks slow enemies by 30%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 0.15,
+            },
+            {
+                "Price": 3260,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.09,
+            },
+            {
+                "Price": 3405,
+                "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.08,
+            },
+            {
+                "Price": 3852,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.05,
+            }
+        ]
+    },
+      "Pig Patch": {
+        "Type": "Splash",
+        "Image": "rbxassetid://85391309941259",
+        "Rarity": "Rare",
+        "PlacePrice": 700,
+        "Offset": 0,
+        "Max": 8,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 1150,
+                "Range": 24,
+                "Damage": 4800,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1700,
+                "Range": 27,
+                "Damage": 5200,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 3025,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 2
+            }
+        ]
+    },
+        "Orville Elephant": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://120386866285195",
+        "Rarity": "Apex",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 12500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 20000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 24000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Great Escape Freddy": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://103794950872304",
