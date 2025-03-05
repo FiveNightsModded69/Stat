@@ -4349,6 +4349,110 @@
             }
         ]
     },
+      "Slim Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://74234347415853",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2500,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 7500,
+                "Range": 28,
+                "Damage": 7500,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 12500,
+                "Range": 31,
+                "Damage": 10000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 15000,
+                "Range": 34,
+                "Damage": 12500,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 30000,
+                "Range": 37,
+                "Damage": 15000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 50000,
+                "Range": 45,
+                "Damage": 22500,
+                "Cooldown": 2
+            }
+        ]
+    },
+      "Obese Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://131362587186450",
+        "Rarity": "Apex",
+        "PlacePrice": 3500,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 25000,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 8500,
+                "Range": 28,
+                "Damage": 27500,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 13500,
+                "Range": 31,
+                "Damage": 35000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 16000,
+                "Range": 34,
+                "Damage":50000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 35000,
+                "Range": 37,
+                "Damage": 55250,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 55000,
+                "Range": 45,
+                "Damage": 62500,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Circuit Breaker Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18886487842",
