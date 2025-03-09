@@ -14095,5 +14095,52 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Dread Pirate Foxy": {
+        "Type": "Splash + Stun",
+        "Image": "rbxassetid://119908435134121",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Offset": 0.45,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 14000,
+                "Cooldown": 2.6,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 18000,
+                "Range": 24,
+                "Damage": 18000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 22000,
+                "Range": 27,
+                "Damage": 22000,
+                "Cooldown": 2.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 25000,
+                "Cooldown": 2.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
     }
 }
