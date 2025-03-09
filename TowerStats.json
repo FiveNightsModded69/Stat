@@ -360,6 +360,123 @@
             }
         ]
     },
+         "Ignited Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://125550961769612",
+        "Rarity": "Rare",
+        "PlacePrice": 725,
+        "Offset": 0,
+        "Max": 8,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 850,
+                "Range": 20,
+                "Damage": 1600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 23,
+                "Damage": 1700,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1750,
+                "Range": 25,
+                "Damage": 2200,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+             "Ignited Foxy": {
+        "Type": "Slash",
+        "Image": "rbxassetid://123964643236289",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1800,
+                "Range": 25,
+                "Damage": 3300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2200,
+                "Range": 30,
+                "Damage": 3400,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+         "Ignited Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://111326058654830",
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2950,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1725,
+                "Range": 22,
+                "Damage": 3125,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1950,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 3750,
+                "Cooldown": 0.3
+            }
+        ]
+    },
      "Smooth Criminal Bonnie": {
         "Type": "Aoe + Slow",
         "Image": "rbxassetid://139100335916071",
