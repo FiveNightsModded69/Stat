@@ -516,6 +516,84 @@
             }
         ]
     },
+             "Golden Ignited Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://93281784935233",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 125000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 22500,
+                "Range": 30,
+               "Damage": 150000,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 325000,
+                "Range": 38,
+                  "Damage": 175000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 400000,
+                "Range": 45,
+                "Damage": 200000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+             "Shadow Ignited Freddy": {
+        "Type": "Glitch",
+        "Image": "rbxassetid://78904306513923",
+        "Rarity": "Celestial",
+        "PlacePrice": 75000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 150000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 22500,
+                "Range": 45,
+               "Damage": 175000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 325000,
+                "Range": 65,
+                  "Damage": 250000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 400000,
+                "Range": 75,
+                "Damage": 275000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
      "Smooth Criminal Bonnie": {
         "Type": "Aoe + Slow",
         "Image": "rbxassetid://139100335916071",
