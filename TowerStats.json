@@ -477,6 +477,45 @@
             }
         ]
     },
+             "Ignited Bonnie": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://91242257087353",
+        "Rarity": "Secret",
+        "PlacePrice": 2200,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+               "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 3125,
+                "Range": 38,
+                  "Damage": 5300,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 3750,
+                "Range": 45,
+                  "Damage": 5750,
+                "Cooldown": 0.2
+            }
+        ]
+    },
      "Smooth Criminal Bonnie": {
         "Type": "Aoe + Slow",
         "Image": "rbxassetid://139100335916071",
